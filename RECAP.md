@@ -48,7 +48,7 @@ Ce format est utile pour le positionneer en tant que commentaire afin de coder s
 Tout d'abord i l ya  le réseau, il s'agit d'internet. Il se base sur des protocoles de communication (TCP/IP) et des protocoles de transfert de données :
 
 | Protocole de transfert | Usage | Traduit par |
-| --- | --- |
+| --- | --- | --- |
 | HTTP | Transfert de données web | Hypertext Transfer Protocol |
 | FTP | Transfert de fichiers | File Transfer Protocol |
 | SSH | Accès aux serveurs | Secure Shell |
