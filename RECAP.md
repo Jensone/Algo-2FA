@@ -1,7 +1,3 @@
-Voici une version corrigée et améliorée de votre texte :  
-
----
-
 # Récapitulatif 
 
 Semaine du 13 au 18 janvier 2025 – Module Algorithmique  
